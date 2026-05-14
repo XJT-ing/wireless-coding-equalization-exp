@@ -10,5 +10,8 @@ results/*.png
 results/*.csv
 results/*.json
 !results/.gitkeep
+!results/coding_ber_curve.png
+!results/equalization_eye_comparison.png
+!results/equalization_mse_curve.png
 grade_report.json
 *_result.txt
